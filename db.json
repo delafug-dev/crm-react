@@ -8,11 +8,12 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "id": 2,
       "nombre": "Karen",
-      "telefono": 138198313,
-      "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
+      "empresa": "Codigo Con Juan",
+      "email": "karensas@juan.com",
+      "telefono": "138198313",
+      "notas": "ss",
+      "id": 2
     },
     {
       "id": 3,
